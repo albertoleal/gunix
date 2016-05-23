@@ -1,0 +1,6 @@
+{
+	"ImportPath": "github.com/albertoleal/gunix",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v70",
+	"Deps": []
+}
